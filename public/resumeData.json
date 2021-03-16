@@ -1,45 +1,31 @@
 {
     "main": {
-        "name": "Hermione Granger",
-        "description": "I'm a web development engineer and I use react and python to develop pages...",
+        "name": "Bayan Assaf",
+        "description": "I'm a knowlege-thirsty Web Developer.",
         "image": "profilepic.jpg",
         "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "youremailhere@gmail.com",
-        "phone": "555-555-5555",
-        "github": "https://github.com/",
+        "email": "bayan.assaf@hotmail.com",
+        "phone": "+971 (0) 58 570 0743",
+        "github": "https://github.com/BayanAssaf",
         "project": "https://github.com/",
         "address": {
-            "street": "(Your Street)",
-            "city": "(Your City)",
-            "state": "(Your State)"
+            "country": "U.A.E",
+            "street": "Str. 7",
+            "city": "The Views",
+            "state": "Dubai"
         },
-        "website": "https://github.com/",
+        "website": "https://bayanassaf.github.io",
         "resumedownload": "https://github.com/",
         "social": [
             {
-                "name": "facebook",
-                "url": "https://github.com/",
-                "className": "fa fa-facebook"
-            },
-            {
-                "name": "twitter",
-                "url": "http://twitter.com",
-                "className": "fa fa-twitter"
-            },
-            {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/bayanassaf/",
                 "className": "fa fa-linkedin"
             },
             {
-                "name": "instagram",
-                "url": "http://instagram.com/",
-                "className": "fa fa-instagram"
-            },
-            {
                 "name": "github",
-                "url": "https://github.com/",
+                "url": "https://github.com/BayanAssaf",
                 "className": "fa fa-github"
             }
         ]
@@ -48,16 +34,11 @@
         "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
         "education": [
             {
-                "school": "University?",
-                "degree": "Masters in Beer tasting",
-                "graduated": "April 2007",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-            },
-            {
-                "school": "Hogwarts School of Witchcraft and Wizardry",
-                "degree": "Gryffindor House",
-                "graduated": "March 2003",
-                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+                "school": "Rafik Hariri University (RHU)",
+                "degree": "Bachelor of Computer Science",
+                "graduated": "May 2011",
+                "title": "Related Courses",
+                "description" :["Advanced Programming","Advanced Data structure and algorithm","Advanced Networking","Internet Engineering and Web Programming","Software Engineering"]
             }
         ],
         "work": [

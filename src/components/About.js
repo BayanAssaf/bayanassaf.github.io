@@ -6,8 +6,9 @@ export default function About(props) {
         var name = props.data.name;
         var profilepic = 'images/' + props.data.image;
         var bio = props.data.bio;
-        var street = props.data.address.street;
-        var city = props.data.address.city;
+        var country = props.data.address.country;
+        //var street = props.data.address.street;
+        //var city = props.data.address.city;
         var state = props.data.address.state;
         var phone = props.data.phone;
         var email = props.data.email;
@@ -29,8 +30,7 @@ export default function About(props) {
                             <h2>Contact Details</h2>
                             <p className="address">
                                 <span>{name}</span><br />
-                                <span>{street}<br />
-                                    {city} {state}
+                                <span>{state}, {country}
                                 </span><br />
                                 <span>{phone}</span><br />
                                 <span>{email}</span>

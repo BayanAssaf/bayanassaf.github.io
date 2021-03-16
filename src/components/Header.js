@@ -14,7 +14,8 @@ export default function Header(props) {
         var github = props.data.github;
         var name = props.data.name;
         var description = props.data.description;
-        var city = props.data.address.city;
+        var country = props.data.address.country;
+        //var city = props.data.address.city;
         var networks = props.data.social.map(function (network) {
             return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
         })
@@ -22,7 +23,7 @@ export default function Header(props) {
 
     return (
         <header id="home">
-            <ParticlesBg type="circle" bg={true} />
+            <ParticlesBg type="lines" bg={true} />
             <nav id="nav-wrap">
                 <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
                 <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
