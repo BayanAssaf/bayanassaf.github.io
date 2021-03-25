@@ -16,7 +16,7 @@
             "state": "Dubai"
         },
         "website": "https://bayanassaf.github.io",
-        "resumedownload": "../docs/BayanAssaf_WebDeveloper.pdf",
+        "resumedownload": "/docs/BayanAssaf_WebDeveloper.pdf",
         "social": [
             {
                 "name": "linkedin",
