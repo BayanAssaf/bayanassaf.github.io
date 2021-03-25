@@ -3,7 +3,7 @@
         "name": "Bayan Assaf",
         "description": "I'm a knowlege-thirsty Web Developer",
         "image": "profilepic.jpg",
-        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+        "bio": "I'm very passionate about coding and always keen on learning new languages. My abilities are not defined by, or limited to, the info on my C.V. For me, thirst for knowledge is much more important than having the experience, and my thirst for learning new things is unquenchable.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "bayan.assaf@hotmail.com",
         "phone": "+971 (0) 58 570 0743",
@@ -16,7 +16,7 @@
             "state": "Dubai"
         },
         "website": "https://bayanassaf.github.io",
-        "resumedownload": "https://github.com/",
+        "resumedownload": "../docs/BayanAssaf_WebDeveloper.pdf",
         "social": [
             {
                 "name": "linkedin",
@@ -141,23 +141,23 @@
         "skills": [
             {
                 "name": "HTML5, CSS3",
-                "level": "90%"
+                "level": "95%"
             },
             {
                 "name": "Javascript, C#, MySQL, XML, ASP, AJAX, MVC, XSLT, Crystal Reports",
-                "level": "65%"
+                "level": "75%"
             },
             {
                 "name": "Agile methodology and versioning systems (GIT, SVN)",
-                "level": "60%"
+                "level": "65%"
             },
             {
                 "name": "Joomla and WordPress",
-                "level": "50%"
+                "level": "60%"
             },
             {
                 "name": "ReactJS, Jason, JQuery, Node.js",
-                "level": "20%"
+                "level": "40%"
             }
         ]
     },
@@ -167,7 +167,7 @@
                 "title": "iPad 10.2",
                 "category": "Launching Apple's iPad Project",
                 "image": "project1.jpg",
-                "url": "https://www.apple.com/ae/ipad-10.2/"
+                "url": "https://www.apple.com/ae-ar/ipad-10.2/"
             },
             {
                 "title": "iPhone 12 Pro",
@@ -179,7 +179,7 @@
                 "title": "Watch",
                 "category": "Launching Apple's Watch Project",
                 "image": "project3.png",
-                "url": "https://www.apple.com/ae/watch/"
+                "url": "https://www.apple.com/ae-ar/watch/"
             },
             {
                 "title": "Lea The Label",
