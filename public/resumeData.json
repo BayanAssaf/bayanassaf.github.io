@@ -1,7 +1,7 @@
 {
     "main": {
         "name": "Bayan Assaf",
-        "description": "I'm a knowlege-thirsty Web Developer.",
+        "description": "I'm a knowlege-thirsty Web Developer",
         "image": "profilepic.jpg",
         "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -31,11 +31,25 @@
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "languages" : ["Arabic: Native language","English: Fluent (Written & Spoken)"],
+        "skillmessage": ["Responsive Design","Hand-code HTML Email templates","Fair knowledge and experience in SharePoint Server, Windows Azure, Microsoft Dynamics CRM",
+        "Knowledge, experience and development skills in SEO","Bridging ability between Design and Programming (Adobe Photoshop, Adobe Dream Weaver)",
+        "Good knowledge and experience in developing online courses using Adobe Captivate 8 and older versions","Web technologies, -standards and Information architecture",
+        "Online Projects (Background in Online Project Manager/ Web Author)","Excellent problem solving and analytical skills","Time management and multi-tasking",
+        "Can handle pressure, work in teams and meet deadlines","Can quickly learn new programming languages and techniques"
+        ],
+        "achievments" : [
+            {
+                "date" : "2010",
+                "title": "Programming Contests",
+                "place": "L.A.U Beirut",
+                "certificates": ["Certificate in LCPC. The Lebanese Collegiate Programming Contest.","Certificate in RCPC. The Regional Collegiate Programming Contest."]
+            }
+        ],
         "education": [
             {
                 "school": "Rafik Hariri University (RHU)",
-                "degree": "Bachelor of Computer Science",
+                "degree": "Bachelor of Computer Science and Minor in Mathematics",
                 "graduated": "May 2011",
                 "title": "Related Courses",
                 "description" :["Advanced Programming","Advanced Data structure and algorithm","Advanced Networking","Internet Engineering and Web Programming","Software Engineering"]
@@ -43,66 +57,135 @@
         ],
         "work": [
             {
-                "company": "Department of Magical Law Enforcement",
-                "title": "Ministry of Magic",
-                "years": "December 2010 - Present",
-                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+                "company": "Apple Inc. - Hogarthww",
+                "title": "Web Developer",
+                "years": "May 2016 – Present",
+                "intro": "",
+                "description": [
+                    "Develop new digital assets as identified by supervisor and management",
+                    "Test the work as per the brief and the minimum requirements for each client",
+                    "Develop fast and efficiently to meet tight deadlines",
+                    "Create digital assets in accordance with the requests of the other developers or Project Managers",
+                    "Produce digital assets in several languages",
+                    "Update and amend existing assets",
+                    "Maintain client digital assets using clean, accessible, markup according to the latest web standards",
+                    "Comment code consistently and cleanly",
+                    "Help and advise project managers with client’s digital requests",
+                    "Keep an eye on the latest trends to help boost development efficiency"
+                ]
             },
             {
-                "company": "Department for the Regulation and Control of Magical Creatures",
-                "title": "Ministry of Magic",
-                "years": "March 2007 - December 2010",
-                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+                "company": "Ampersand Education",
+                "title": "Product Specialist",
+                "years": "Sept 2015 – May 2016",
+                "intro": "",
+                "description": [
+                    "Participate in information gathering and business review sessions with customers to understand overall project goals",
+                    "Translating business requirements into highly specified project feasibility documents",
+                    "Document functional and non-functional requirements based on interactions with customers",
+                    "Identifying options for potential solutions and assessing them for both technical and business suitability",
+                    "Estimate/plan activities and efforts associated with the functional requirements",
+                    "Drawing up a testing plan and schedule for the system",
+                    "Testing and/or overseeing the testing of the system",
+                    "Processing change requests",
+                    "Identify issues/impacts to the project scope in advance",
+                    "Keep track of project updates by compiling relative project status reports",
+                    "Escalate issues to designated teams to ensure implementation issues are addressed early",
+                    "Installation, Deployment and Implementation of the solution",
+                    "Providing training, presentations and demonstrations of the system to technical and non-technical people",
+                    "Working closely with developers, QC and a variety of end users to ensure technical compatibility and user satisfaction",
+                    "Keeping up to date with technical as well as industry sector developments",
+                    "May be required to generate additional services by proposing out-of-the box solutions and by establishing close communication channels with existing customers",
+                    "Write user manuals and configuration documents"
+                ]
+            },
+            {
+                "company": "Microsoft MSC – Wunderman",
+                "title": "Web Developer/Digital Specialist",
+                "years": "Nov 2013 – Sept 2015",
+                "intro": "",
+                "description": [
+                    "Implementing the day-to-day site presentation, layout and updates for the relevant websites along with the development of new content, new features within new marketing and promotional activity.",
+                    "Scheduling and executing the localization of corporate produced content and campaigns.",
+                    "Scheduling and producing relevant editorial, promotional and marketing content for the consumer related websites.",
+                    "Assisting in creating, developing and managing a newsletter process which includes moving the newsletter process to a greater focus on personalization and CRM.",
+                    "Working with the Digital Sr. Account Manager to maintain relevant and up to date documentation on the website and supporting systems.",
+                    "Planning, programming and coordinating activity, content, site maintenance and development with the Digital Sr. Account Manager",
+                    "Where necessary, modifying existing processes and implement new streamlined processes, which maximize efficiency and ensure all projects, resources and activities are delivered in the most effective manner.",
+                    "Ensuring the operational integrity of the websites, applications and infrastructure."
+                ]
+            },
+            {
+                "company": "Medical Professionals",
+                "title": "Web Developer",
+                "years": "Dec 2012 - Nov 2013",
+                "intro": "As the only Web Developer in the Company, I was responsible for all digital needs. Mainly worked with databases, SQL, html5, CSS3, C#, JavaScript, jQuery, PHP, and Adobe Captivate.",
+                "description": [
+                    "Developing web applications that meet the needs of the company (Employers and employees) for better and easier communication.",
+                    "Developing e-learning courses using Adobe Captivate.",
+                    "Reconstructing the company website (development, maintenance, hosting, updating…) which is built on a joomla platform.",
+                    "Working on the theoretical development of a new very big project for ASOR (Arab Society of Radiology) from A to Z on WordPress platform."
+                ]
+            },
+            {
+                "company": "Softech Sarl",
+                "title": "Jr. Web Developer",
+                "years": "July 2011 – Dec 2012",
+                "intro": "Softech offers IT solutions such as System Integration, ERP implementations, and build to order software for both private & public sectors.",
+                "description": [
+                    "Working with databases, MySQL, asp.net, html, C#, CSS, JavaScript, jQuery, web services and Ajax.",
+                    "Developing the newsletter of the company’s website “Katagogi"
+                ]
             }
         ],
         "skills": [
             {
-                "name": "Python",
-                "level": "60%"
-            },
-            {
-                "name": "VueJs",
-                "level": "55%"
-            },
-            {
-                "name": "ReactJs",
-                "level": "50%"
-            },
-            {
-                "name": "CSS",
+                "name": "HTML5, CSS3",
                 "level": "90%"
             },
             {
-                "name": "JAVA",
-                "level": "80%"
+                "name": "Javascript, C#, MySQL, XML, ASP, AJAX, MVC, XSLT, Crystal Reports",
+                "level": "65%"
+            },
+            {
+                "name": "Agile methodology and versioning systems (GIT, SVN)",
+                "level": "60%"
+            },
+            {
+                "name": "Joomla and WordPress",
+                "level": "50%"
+            },
+            {
+                "name": "ReactJS, Jason, JQuery, Node.js",
+                "level": "20%"
             }
         ]
     },
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "iPad 10.2",
+                "category": "Launching Apple's iPad Project",
                 "image": "project1.jpg",
-                "url": "https://www.google.com"
+                "url": "https://www.apple.com/ae/ipad-10.2/"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project2.jpg",
-                "url": "https://www.google.com"
+                "title": "iPhone 12 Pro",
+                "category": "Launching Apple's iPhone Project",
+                "image": "project2.png",
+                "url": "https://www.apple.com/ae/iphone-12-pro/"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project3.jpg",
-                "url": "https://www.google.com"
+                "title": "Watch",
+                "category": "Launching Apple's Watch Project",
+                "image": "project3.png",
+                "url": "https://www.apple.com/ae/watch/"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project4.jpg",
-                "url": "https://www.google.com"
+                "title": "Lea The Label",
+                "category": "E-Commerce Shopify Store (Developed & Configured)",
+                "image": "project4.png",
+                "url": "https://leathelabel.com/"
             }
         ]
     }
