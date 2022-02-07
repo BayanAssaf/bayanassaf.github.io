@@ -23,7 +23,7 @@ export default function Header(props) {
 
     return (
         <header id="home">
-            <ParticlesBg type="lines" bg={true} />
+            <ParticlesBg color="#2fa9c2" type="lines" bg={true} />
             <nav id="nav-wrap">
                 <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
                 <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>

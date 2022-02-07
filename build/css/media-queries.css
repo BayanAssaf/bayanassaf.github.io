@@ -112,7 +112,8 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+    background-color: #22c1c3;
+    border-radius: 10px;
 		position: relative;
       border: none;
       float: right;

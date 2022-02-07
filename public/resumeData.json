@@ -3,7 +3,7 @@
         "name": "Bayan Assaf",
         "description": "I'm a knowlege-thirsty Web Developer",
         "image": "profilepic.jpg",
-        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+        "bio": "I'm very passionate about coding and always keen on learning new languages. My abilities are not defined by, or limited to, the info on my C.V. For me, thirst for knowledge is much more important than having the experience, and my thirst for learning new things is unquenchable.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "bayan.assaf@hotmail.com",
         "phone": "+971 (0) 58 570 0743",
@@ -16,7 +16,7 @@
             "state": "Dubai"
         },
         "website": "https://bayanassaf.github.io",
-        "resumedownload": "https://github.com/",
+        "resumedownload": "https://github.com/BayanAssaf/bayanassaf.github.io/blob/main/public/docs/BayanAssaf_WebDeveloper.pdf",
         "social": [
             {
                 "name": "linkedin",
@@ -164,28 +164,28 @@
     "portfolio": {
         "projects": [
             {
-                "title": "iPad 10.2",
-                "category": "Launching Apple's iPad Project",
-                "image": "project1.jpg",
-                "url": "https://www.apple.com/ae/ipad-10.2/"
-            },
-            {
-                "title": "iPhone 12 Pro",
-                "category": "Launching Apple's iPhone Project",
-                "image": "project2.png",
-                "url": "https://www.apple.com/ae/iphone-12-pro/"
-            },
-            {
-                "title": "Watch",
-                "category": "Launching Apple's Watch Project",
-                "image": "project3.png",
-                "url": "https://www.apple.com/ae/watch/"
+                "title": "Deep Dive Dubai",
+                "category": "Developing Deep Dive Dubai's website from scratch",
+                "image": "project1.png",
+                "url": "https://deepdivedubai.com"
             },
             {
                 "title": "Lea The Label",
-                "category": "E-Commerce Shopify Store (Developed & Configured)",
+                "category": "Developed & configured Lea The Label's e-commerce Shopify store",
                 "image": "project4.png",
                 "url": "https://leathelabel.com/"
+            },
+            {
+                "title": "Watch",
+                "category": "Updating and maintaining Apple's Arabic Watch project",
+                "image": "project3.png",
+                "url": "https://www.apple.com/ae-ar/watch/"
+            },
+            {
+                "title": "iPhone 12 Pro",
+                "category": "Launching, updating, & maintaining Apple's iPhone project",
+                "image": "project2.png",
+                "url": "https://www.apple.com/ae/iphone-12-pro/"
             }
         ]
     }

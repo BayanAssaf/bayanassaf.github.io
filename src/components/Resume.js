@@ -14,11 +14,11 @@ export default function Resume(props) {
         })
 
         var language = props.data.languages.map(function(languages){
-            return <ul key={languages}><li><span>&bull;</span> {languages}</li></ul>
+            return <li key={languages}><span>&bull;</span> {languages}</li>
         })
         
         var message = props.data.skillmessage.map(function (skillmessage) {
-            return <ul key={skillmessage}><li><span>&bull;</span> {skillmessage}</li></ul>
+            return <li key={skillmessage}><span>&bull;</span> {skillmessage}</li>
         })
         
         var education = props.data.education.map(function (education) {
@@ -43,10 +43,10 @@ export default function Resume(props) {
         })
 
         var skills = props.data.skills.map((skills) => {
-            var className = 'bar-expand ' + skills.name.toLowerCase();
+            var className = 'bar-expand skill-gradient';
             return (
                 <li key={skills.name}>
-                    <span style={{ width: skills.level, backgroundColor: '#740001' }} className={className}></span><em>{skills.name}</em>
+                    <span style={{ width: skills.level }} className={className}></span><em>{skills.name}</em>
                 </li>
             )
         })
@@ -58,7 +58,6 @@ export default function Resume(props) {
                 <div className="three columns header-col">
                     <h1><span>Education</span></h1>
                 </div>
-
                 <div className="nine columns main-col">
                     <div className="row item">
                         <div className="twelve columns">
@@ -83,7 +82,7 @@ export default function Resume(props) {
                 </div>
 
                 <div className="nine columns main-col">
-                <p>{message}</p>
+                <ul>{message}</ul>
                     <div className="bars">
                         <ul className="skills">
                             {skills}
@@ -112,7 +111,7 @@ export default function Resume(props) {
                 </div>
 
                 <div className="nine columns main-col">
-                    <p>{language}</p>
+                    <ul>{language}</ul>
                 </div>
             </div>
         </section>
