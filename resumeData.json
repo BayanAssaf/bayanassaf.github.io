@@ -16,7 +16,7 @@
             "state": "Dubai"
         },
         "website": "https://bayanassaf.github.io",
-        "resumedownload": "https://github.com/BayanAssaf/bayanassaf.github.io/blob/f9e9324099ab30d5e35acfbc371d3de68f4bc0c5/public/docs/BayanAssaf_WebDeveloper.pdf",
+        "resumedownload": "https://github.com/BayanAssaf/bayanassaf.github.io/blob/main/public/docs/BayanAssaf_WebDeveloper.pdf",
         "social": [
             {
                 "name": "linkedin",
@@ -141,51 +141,51 @@
         "skills": [
             {
                 "name": "HTML5, CSS3",
-                "level": "95%"
+                "level": "90%"
             },
             {
                 "name": "Javascript, C#, MySQL, XML, ASP, AJAX, MVC, XSLT, Crystal Reports",
-                "level": "75%"
-            },
-            {
-                "name": "Agile methodology and versioning systems (GIT, SVN)",
                 "level": "65%"
             },
             {
-                "name": "Joomla and WordPress",
+                "name": "Agile methodology and versioning systems (GIT, SVN)",
                 "level": "60%"
             },
             {
+                "name": "Joomla and WordPress",
+                "level": "50%"
+            },
+            {
                 "name": "ReactJS, Jason, JQuery, Node.js",
-                "level": "40%"
+                "level": "20%"
             }
         ]
     },
     "portfolio": {
         "projects": [
             {
-                "title": "iPad 10.2",
-                "category": "Launching Apple's iPad Project",
-                "image": "project1.jpg",
-                "url": "https://www.apple.com/ae-ar/ipad-10.2/"
+                "title": "Deep Dive Dubai",
+                "category": "Developing Deep Dive Dubai's website from scratch",
+                "image": "project1.png",
+                "url": "https://deepdivedubai.com"
             },
             {
-                "title": "iPhone 12 Pro",
-                "category": "Launching Apple's iPhone Project",
-                "image": "project2.png",
-                "url": "https://www.apple.com/ae/iphone-12-pro/"
+                "title": "Lea The Label",
+                "category": "Developed & configured Lea The Label's e-commerce Shopify store",
+                "image": "project4.png",
+                "url": "https://leathelabel.com/"
             },
             {
                 "title": "Watch",
-                "category": "Launching Apple's Watch Project",
+                "category": "Updating and maintaining Apple's Arabic Watch project",
                 "image": "project3.png",
                 "url": "https://www.apple.com/ae-ar/watch/"
             },
             {
-                "title": "Lea The Label",
-                "category": "E-Commerce Shopify Store (Developed & Configured)",
-                "image": "project4.png",
-                "url": "https://leathelabel.com/"
+                "title": "iPhone 12 Pro",
+                "category": "Launching, updating, & maintaining Apple's iPhone project",
+                "image": "project2.png",
+                "url": "https://www.apple.com/ae/iphone-12-pro/"
             }
         ]
     }
