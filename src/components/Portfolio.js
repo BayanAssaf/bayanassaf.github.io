@@ -9,7 +9,10 @@ const useStyles = makeStyles((theme) => ({
     },
     card: {
         maxWidth: 250,
-        margin: 0,
+        marginRight: 'auto',
+        marginLeft: 'auto',
+        marginTop: 0,
+        marginBottom: 0,
     },
     media: {
         height: 160,
